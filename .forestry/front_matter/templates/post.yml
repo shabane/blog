@@ -23,3 +23,5 @@ fields:
 - type: file
   name: feature_image
   label: feature_image
+pages:
+- content/post/thest-this-is-test-test-again-test.md
